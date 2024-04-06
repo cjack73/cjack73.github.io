@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cullen D. Jackson, PhD"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,8 +25,8 @@ author:
   name             : "Cullen D. Jackson, PhD"
   pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Beth Isreal Deaconess Medical Center / Harvard Medical School"
+  location         : "Boston, MA"
+  employer         : "BIDMC / HMS"
   uri              : # URL
   email            : "cjack73@gmail.com" 
 
