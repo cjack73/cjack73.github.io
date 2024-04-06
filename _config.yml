@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Cullen D. Jackson, PhD"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Boston, MA"
   employer         : "BIDMC / HMS"
